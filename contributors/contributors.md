@@ -32,8 +32,8 @@ Note:
 
 ## Daftar
 
-Entry: 10
-Github: lauxieouxe21
-Nama: Firsty
+Entry: -
+Github: noewatkaat
+Nama: noe watkaat
 Website: https://github.com/lauxieouxe21
-Pesan: Sawadikha...
+Pesan: #BAPA BERKATI & #PERCAYA PROSES
